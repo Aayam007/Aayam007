@@ -55,7 +55,36 @@ public class BiShowShrestha : Developer
 
 ---
 
-## 🛠️ Tech Stack
+## � Technical Expertise
+
+### Backend Development
+```text
+.NET Core        ████████████████████░   95%
+C#               ████████████████████░   90%
+ASP.NET          ███████████████████░░   85%
+SQL Server       ███████████████████░░   85%
+Entity Framework ██████████████████░░░   80%
+```
+
+### Frontend Development
+```text
+JavaScript       ███████████████░░░░░   75%
+HTML5/CSS3       ████████████████████░   90%
+jQuery           ███████████████████░░   85%
+Bootstrap        ████████████████░░░░░   80%
+```
+
+### Tools & Platforms
+```text
+Git              ████████████████████░   90%
+Visual Studio    ████████████████████░   95%
+Azure            ██████████████░░░░░░░   70%
+Docker           ████████████░░░░░░░░░   60%
+```
+
+---
+
+## �🛠️ Tech Stack
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -111,49 +140,198 @@ public class BiShowShrestha : Developer
 
 ---
 
-## 💻 Featured Projects
+## 🎯 Featured Projects
+
+### 🌐 Portfolio Website
+[![Portfolio](https://img.shields.io/badge/Live-bishowshrestha.com.np-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bishowshrestha.com.np)
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap, jQuery  
+**Features:** Responsive design, Modern animations, SEO optimized, Performance enhanced  
+> Professional portfolio showcasing full-stack development skills with modern web technologies
+
+### � Enterprise Web Applications
+**Tech Stack:** .NET Core, ASP.NET MVC, Entity Framework, SQL Server, Telerik Reporting  
+**Experience:** Worked on multiple modules of large-scale business applications  
+> Built scalable enterprise solutions with robust database design and reporting systems
+
+### 📊 Database-Driven Applications
+**Tech Stack:** SQL Server, T-SQL, Stored Procedures, Database Optimization  
+**Expertise:** Complex queries, Performance tuning, Database architecture  
+> Developed efficient data management systems with optimized query performance
 
 <div align="center">
   <a href="https://github.com/Aayam007?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+    <img src="https://img.shields.io/badge/View_All_Repositories-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
   </a>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Currently Exploring
+
+```yaml
+🔹 Microservices Architecture: Building scalable distributed systems
+🔹 Docker & Kubernetes: Container orchestration and deployment
+🔹 Azure Cloud Services: Cloud-native application development
+🔹 React.js: Modern frontend framework integration with .NET API
+🔹 GraphQL: Efficient API design patterns
+🔹 Design Patterns: Advanced software architecture principles
+```
+
+---
+
+## ⚙️ Development Setup
+
+```yaml
+💻 Operating System: Windows 11 Pro
+🛠️ IDE: Visual Studio 2022 / VS Code
+🗄️ Database: SQL Server 2022
+🔧 Version Control: Git + GitHub
+📊 Project Management: Azure DevOps
+✨ Code Quality: SonarQube, ReSharper
+🧪 Testing: xUnit, Moq, Selenium
+```
+
+**Daily Toolkit:**
+- 💻 Visual Studio Code for quick edits and web development
+- 🎨 Modern CSS frameworks for responsive designs
+- 📝 Documentation tools for technical writing
+- 🔧 Postman for API testing and development
+- 📊 SQL Server Management Studio for database management
+
+---
+
+## 🎓 Professional Journey Timeline
+
+```mermaid
+graph LR
+    A[2015-2019<br/>BCA Degree] --> B[2018-2019<br/>Dot Net Developer<br/>BitsPanda]
+    B --> C[2019-2020<br/>Software Developer<br/>Info Developers]
+    C --> D[2020-Present<br/>Full Stack<br/>Development]
+    D --> E[Future<br/>Cloud & DevOps]
+```
+
+---
+
+## 💬 Let's Connect & Collaborate!
 
 <div align="center">
-  
-[![Website](https://img.shields.io/badge/Website-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bishowshrestha.com.np)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayambishow007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayam007)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aayam_world10)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aayam007)
+
+### 🤝 Available For:
+✅ **Freelance Projects** - Web & Software Development  
+✅ **.NET Development Consulting** - Architecture & Best Practices  
+✅ **Code Reviews** - Quality Assurance & Optimization  
+✅ **Technical Mentoring** - Sharing knowledge & experience  
+
+### ⚡ Response Time: Usually within 24 hours
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-bishowshrestha.com.np-667eea?style=for-the-badge)](https://bishowshrestha.com.np)
+[![Email](https://img.shields.io/badge/📧_Email_Me-aayambishow007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayambishow007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayam007)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aayam_world10)
+[![Facebook](https://img.shields.io/badge/👥_Facebook-Add_Friend-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aayam007)
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
+## 🎲 Fun Facts & Stats
+
+<div align="center">
+
+| 📊 Metric | 💯 Value |
+|-----------|----------|
+| 🔢 Lines of Code Written | **500,000+** |
+| ☕ Coffee Consumed | **∞** (Still counting) |
+| 🐛 Bugs Squashed | Too many to count |
+| 💡 "Aha!" Moments | Daily occurrence |
+| 🎯 Favorite Debugging Tool | `Console.WriteLine()` |
+| 🌙 Peak Productivity Hours | Late Night 🦉 |
+| 🎮 Coding Soundtrack | Lo-fi Hip Hop |
+| 📚 Learning Mode | Always ON |
+
+</div>
+
+---
+
+## 📝 Latest Insights & Articles
+
+<div align="center">
+
+Coming Soon! Stay tuned for technical articles on:
+- 🔷 .NET Core Best Practices
+- 🔷 SQL Server Performance Optimization
+- 🔷 Modern Web Development Techniques
+- 🔷 Clean Code Principles
+
+</div>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 💡 Random Dev Quote
+## 🏅 Achievements & Milestones
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Dev Quote" />
+
+| 🎯 Achievement | 📅 Date |
+|----------------|---------|
+| 🎓 Completed BCA Degree | 2019 |
+| 💼 First Professional Role | 2018 |
+| 🚀 Launched Portfolio Website | 2023 |
+| 📊 6+ Projects Completed | 2024 |
+| 🌟 Building Open Source Portfolio | 2025 |
+
 </div>
 
 ---
 
-## 🎵 Spotify Playing
+## � Developer Wisdom
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h6kzslf4y7qmzm6kqzc7jh4tki&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=667eea&bar_color_cover=false" alt="Spotify Playing" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
+
+---
+
+## 📊 Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+.NET Core    12 hrs 30 mins  ████████████████░░░░░  65.2%
+SQL          3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░  19.6%
+JavaScript   1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░   9.6%
+HTML/CSS     45 mins         █░░░░░░░░░░░░░░░░░░░░   3.9%
+Other        20 mins         ░░░░░░░░░░░░░░░░░░░░░   1.7%
+```
+<!--END_SECTION:waka-->
+
+<div align="center">
+  <i>📈 These stats update automatically via WakaTime integration</i>
+</div>
+
+---
+
+## 📫 Quick Contact Card
+
+```typescript
+const bishow = {
+    name: "Bishow Kaji Shrestha",
+    location: "Kathmandu, Nepal 🇳🇵",
+    role: "Software Developer",
+    email: "aayambishow007@gmail.com",
+    website: "https://bishowshrestha.com.np",
+    
+    workingOn: "Enterprise web applications with .NET Core",
+    learning: ["Microservices", "Docker", "Azure Cloud"],
+    collaborateOn: "Web development & .NET projects",
+    askMeAbout: [".NET Core", "ASP.NET", "SQL Server", "Web Development"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+
+console.log(`💼 Let's build something amazing together!`);
+```
 
 ---
 
@@ -162,6 +340,19 @@ public class BiShowShrestha : Developer
 </div>
 
 <div align="center">
-  <h3>⭐ Star my repositories if you find them useful! ⭐</h3>
-  <p>Made with ❤️ by Bishow Shrestha</p>
+  
+### 💡 Pro Tip: Star ⭐ the repositories you find useful!
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**Made with 💜 by Bishow Shrestha | Software Developer from Nepal 🇳🇵**
+
+*"Code is poetry written in logic"*
+
 </div>
