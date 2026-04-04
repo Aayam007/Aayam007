@@ -133,7 +133,7 @@ SQL/Reporting Tools  █████████████████░░�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayam007&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=aayam007&theme=light" alt="GitHub Trophies" />
 </div>
 
 ---
