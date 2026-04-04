@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Bishow+Shrestha;Software+Developer;.NET+Core+Expert;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=520&lines=Hi+👋+I'm+Bishow+Shrestha;Senior+Software+Engineer;.NET+%2B+Angular+Developer;Microservices+%7C+CI%2FCD+%7C+SQL" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -20,19 +20,19 @@ public class BiShowShrestha : Developer
 {
     public string Name => "Bishow Kaji Shrestha";
     public string Location => "Kathmandu, Nepal 🇳🇵";
-    public string Title => "Software Developer";
+    public string Title => "Software Engineer";
     public string[] Specialization => new[] 
     { 
-        ".NET Core Framework", 
-        "ASP.NET", 
-        "Modern Web Development",
-        "SQL Databases"
+        ".NET / ASP.NET Core",
+        "Angular (TypeScript)",
+        "Microservices Architecture",
+        "SQL Server / Oracle / PostgreSQL"
     };
     
     public void GetCurrentFocus()
     {
-        Console.WriteLine("Building scalable web applications with .NET Core");
-        Console.WriteLine("Exploring modern client-side frameworks");
+        Console.WriteLine("Building scalable enterprise systems with .NET Core");
+        Console.WriteLine("Delivering secure, compliant solutions (HIPAA)");
     }
 }
 ```
@@ -41,54 +41,58 @@ public class BiShowShrestha : Developer
 
 ### 💼 Professional Journey
 
-- 🎓 **Education**: Bachelor of Computer Application (2015-2019)
-  - Kantipur City College, Purbanchal University
+- 🎓 **Education**:
+  - MIT (Running) — Tribhuvan University
+  - Bachelor Of Computer Application (2021) — Kantipur City College, Purbanchal University
   
-- 💻 **Experience**:
-  - **Software Developer** @ Info Developers Pvt. Ltd. (2019-2020)
-  - **Dot Net Developer** @ BitsPanda Technology (2018-2019)
+- 💻 **Experience** (6+ years):
+  - **Senior Software Engineer** @ Infinite Computer Solutions (Feb 2024 – Present)
+  - **Software Engineer II** @ Cotiviti Nepal (Jan 2023 – Feb 2024)
+  - **Associate Team Lead / Sr. Software Engineer / Software Developer** @ InfoDevelopers Pvt. Ltd. (Mar 2020 – Jan 2023)
+  - **Junior .NET Developer** @ Bitspanda Technology (Dec 2019 – Feb 2020)
 
-- 🌱 Currently working on **enterprise web applications**
-- 💡 Passionate about **clean code** and **software architecture**
-- 📫 Reach me: **aayambishow007@gmail.com**
+- 🌱 Currently building **U.S.-based insurance/healthcare management systems** with .NET + Angular
+- 💡 Focused on **clean code**, **architecture**, and **team leadership in Agile/Scrum**
+- 📫 Reach me: **aayambishow007@gmail.com** | **9843573229**
 - 🌐 Portfolio: **[bishowshrestha.com.np](https://bishowshrestha.com.np)**
 
 ---
 
-## � Technical Expertise
+## 💻 Technical Expertise
 
 ### Backend Development
 ```text
-.NET Core        ████████████████████░   95%
-C#               ████████████████████░   90%
-ASP.NET          ███████████████████░░   85%
-SQL Server       ███████████████████░░   85%
-Entity Framework ██████████████████░░░   80%
+.NET / ASP.NET Core  ████████████████████░   95%
+C#                   ████████████████████░   92%
+SQL Server            ███████████████████░░   88%
+Microservices          ██████████████████░░░   82%
+IdentityServer/OAuth2  █████████████████░░░░   78%
 ```
 
 ### Frontend Development
 ```text
-JavaScript       ███████████████░░░░░   75%
-HTML5/CSS3       ████████████████████░   90%
-jQuery           ███████████████████░░   85%
-Bootstrap        ████████████████░░░░░   80%
+Angular/TypeScript █████████████████░░░░   80%
+JavaScript         █████████████████░░░░   80%
+HTML5/CSS3         ████████████████████░   90%
+jQuery             ███████████████████░░   85%
 ```
 
 ### Tools & Platforms
 ```text
-Git              ████████████████████░   90%
-Visual Studio    ████████████████████░   95%
-Azure            ██████████████░░░░░░░   70%
-Docker           ████████████░░░░░░░░░   60%
+Git                 ████████████████████░   92%
+JIRA/Agile           ███████████████████░░   88%
+CI/CD (Jenkins etc.) █████████████████░░░░   80%
+SQL/Reporting Tools  █████████████████░░░░   80%
 ```
 
 ---
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -96,11 +100,13 @@ Docker           ████████████░░░░░░░░░
 ### Frameworks & Libraries
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases & Tools
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Telerik](https://img.shields.io/badge/Telerik-5CE500?style=for-the-badge&logo=progress&logoColor=white)
@@ -142,22 +148,21 @@ Docker           ████████████░░░░░░░░░
 
 ## 🎯 Featured Projects
 
-### 🌐 Portfolio Website
-[![Portfolio](https://img.shields.io/badge/Live-bishowshrestha.com.np-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bishowshrestha.com.np)
+### 🏥 Insurance Management System (HIPAA)
+**Project:** Mavis, Insight, MECA (Ongoing)  
+**Tech Stack:** .NET, Angular, Oracle, SQL Server  
+**Highlights:** Core feature development, OCR integration, code optimization, HIPAA-compliant delivery  
+> Building and optimizing U.S.-based insurance management modules with secure, performant APIs
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap, jQuery  
-**Features:** Responsive design, Modern animations, SEO optimized, Performance enhanced  
-> Professional portfolio showcasing full-stack development skills with modern web technologies
+### 🏦 Government Core Banking System (CBS)
+**Tech Stack:** .NET Core 3.1, SQL Server, Telerik Reporting, pqGrid  
+**Highlights:** Team leadership, microservices architecture, reporting optimization, IdentityServer integration  
+> Led delivery of a large-scale CBS for a government office (CIT), focused on reporting and secure auth
 
-### � Enterprise Web Applications
-**Tech Stack:** .NET Core, ASP.NET MVC, Entity Framework, SQL Server, Telerik Reporting  
-**Experience:** Worked on multiple modules of large-scale business applications  
-> Built scalable enterprise solutions with robust database design and reporting systems
-
-### 📊 Database-Driven Applications
-**Tech Stack:** SQL Server, T-SQL, Stored Procedures, Database Optimization  
-**Expertise:** Complex queries, Performance tuning, Database architecture  
-> Developed efficient data management systems with optimized query performance
+### 🌱 Agro-Related CMS
+**Tech Stack:** C#, JavaScript, HTML, CSS, SQL  
+**Highlights:** Third-party API integrations, database performance optimization, product maintenance  
+> Developed and maintained an agro/veterinary-focused CMS with reliable integrations
 
 <div align="center">
   <a href="https://github.com/Aayam007?tab=repositories">
@@ -171,11 +176,11 @@ Docker           ████████████░░░░░░░░░
 
 ```yaml
 🔹 Microservices Architecture: Building scalable distributed systems
-🔹 Docker & Kubernetes: Container orchestration and deployment
-🔹 Azure Cloud Services: Cloud-native application development
-🔹 React.js: Modern frontend framework integration with .NET API
-🔹 GraphQL: Efficient API design patterns
-🔹 Design Patterns: Advanced software architecture principles
+🔹 CI/CD: Jenkins, Bamboo, Bitbucket Pipelines, Octopus
+🔹 Messaging & Cache: RabbitMQ, Redis
+🔹 Search: Elasticsearch
+🔹 OCR Integration: Improving document processing workflows
+🔹 Design Patterns: Applied software architecture principles
 ```
 
 ---
@@ -185,9 +190,9 @@ Docker           ████████████░░░░░░░░░
 ```yaml
 💻 Operating System: Windows 11 Pro
 🛠️ IDE: Visual Studio 2022 / VS Code
-🗄️ Database: SQL Server 2022
+🗄️ Database: SQL Server / Oracle / PostgreSQL
 🔧 Version Control: Git + GitHub
-📊 Project Management: Azure DevOps
+📊 Project Management: JIRA
 ✨ Code Quality: SonarQube, ReSharper
 🧪 Testing: xUnit, Moq, Selenium
 ```
@@ -205,10 +210,13 @@ Docker           ████████████░░░░░░░░░
 
 ```mermaid
 graph LR
-    A[2015-2019<br/>BCA Degree] --> B[2018-2019<br/>Dot Net Developer<br/>BitsPanda]
-    B --> C[2019-2020<br/>Software Developer<br/>Info Developers]
-    C --> D[2020-Present<br/>Full Stack<br/>Development]
-    D --> E[Future<br/>Cloud & DevOps]
+  A[2012<br/>SLC] --> B[2014<br/>+2 Science]
+  B --> C[2021<br/>BCA Degree]
+  C --> H[Running<br/>MIT]
+  C --> D[2019-2020<br/>Junior .NET Dev<br/>Bitspanda]
+  D --> E[2020-2023<br/>InfoDevelopers<br/>Dev → ATL]
+  E --> F[2023-2024<br/>Cotiviti<br/>SE II]
+  F --> G[2024-Present<br/>Infinite<br/>Senior SE]
 ```
 
 ---
@@ -277,17 +285,19 @@ Coming Soon! Stay tuned for technical articles on:
 
 | 🎯 Achievement | 📅 Date |
 |----------------|---------|
-| 🎓 Completed BCA Degree | 2019 |
-| 💼 First Professional Role | 2018 |
-| 🚀 Launched Portfolio Website | 2023 |
-| 📊 6+ Projects Completed | 2024 |
-| 🌟 Building Open Source Portfolio | 2025 |
+| 🎓 Completed BCA Degree | 2021 |
+| 🧩 Registered Scrum Master | 2021 |
+| 🎓 Exemplary Leadership Training | 2022 |
+| 🧩 Certified SAFe® Practitioner | 2024 |
+| 🏅 Spot Award (Performer of month) | May 2025 |
+| 🏅 Spark Award (Top Performer of Quarter) | Q2 2025 |
+| 🏅 Spark Award (Performer of the Quarter) | Jan–Mar 2026 |
 
 </div>
 
 ---
 
-## � Developer Wisdom
+## 💡 Developer Wisdom
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -319,14 +329,15 @@ Other        20 mins         ░░░░░░░░░░░░░░░░░
 const bishow = {
     name: "Bishow Kaji Shrestha",
     location: "Kathmandu, Nepal 🇳🇵",
-    role: "Software Developer",
+    role: "Senior Software Engineer",
     email: "aayambishow007@gmail.com",
+    phone: "9843573229",
     website: "https://bishowshrestha.com.np",
     
-    workingOn: "Enterprise web applications with .NET Core",
+    workingOn: "Enterprise systems with .NET + Angular (HIPAA-aware)",
     learning: ["Microservices", "Docker", "Azure Cloud"],
     collaborateOn: "Web development & .NET projects",
-    askMeAbout: [".NET Core", "ASP.NET", "SQL Server", "Web Development"],
+    askMeAbout: [".NET / ASP.NET Core", "Angular", "SQL Server", "Microservices", "CI/CD"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 
@@ -351,7 +362,7 @@ console.log(`💼 Let's build something amazing together!`);
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-**Made with 💜 by Bishow Shrestha | Software Developer from Nepal 🇳🇵**
+**Made with 💜 by Bishow Shrestha | Software Engineer from Nepal 🇳🇵**
 
 *"Code is poetry written in logic"*
 
