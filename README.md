@@ -115,10 +115,6 @@ SQL/Reporting Tools  █████████████████░░�
 
 ## 📊 GitHub Stats
 <div align="center">
-  https://github-profile-trophy-tawny.vercel.app/?username=aayam007&theme=light
-  <img src="[https://github-readme-stats.vercel.app/?username=Aayam007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9](https://github-profile-trophy-tawny.vercel.app/?username=aayam007&theme=light)" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayam007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" height="170"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayam007&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" />
