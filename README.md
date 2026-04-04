@@ -114,9 +114,8 @@ SQL/Reporting Tools  █████████████████░░�
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayam007&hide=prs&count_private=true)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayam007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/?username=Aayam007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayam007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" height="170"/>
 </div>
 
